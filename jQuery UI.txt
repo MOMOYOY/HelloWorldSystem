@@ -1,0 +1,4 @@
+jQuery UI:是以jQuery为基础的JavaScript网页用户界面的开源库。
+	包含底层用户交互，动画，特效和可更换主题的可视控件。
+	我们可以直接用它来构建具有很好交互性的Web应用程序
+C:\Users\Administrator\Downloads\jquery-ui-1.12.1.custom
